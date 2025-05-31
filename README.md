@@ -1,4 +1,4 @@
-## Análise Exploratória de Dados (EDA) com o Dataset Iris Flower 🌸
+# Análise Exploratória de Dados (EDA) com o Dataset Iris Flower 🌸
 
 Este projeto foi desenvolvido como parte das atividades da pós-graduação em **Engenharia e Arquitetura de Dados**. Nele, realizamos uma **Análise Exploratória de Dados (EDA)** utilizando o famoso **Iris Dataset (O 'Hello World' da Ciência de Dados)**, com o objetivo de apresentar visualmente as características do conjunto de dados e reforçar a importância da EDA no processo de tomada de decisão baseada em dados.
 
